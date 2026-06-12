@@ -16,7 +16,7 @@ This project demonstrates the design and implementation of a highly available, f
 The structural implementation and network segregation models used in this deployment are outlined below:
 
 ### 1. High Availability & Application Tier Infrastructure
-![Application Infrastructure Architecture](Final_Dia_AWS_We_App_Capstone_1.jpg)
+![Application Infrastructure Architecture](Final_Dia_WebApp.png)
 
 ### 2. Isolated Network & Routing Infrastructure
 ![VPC Network Subnet Design](VPC.png)

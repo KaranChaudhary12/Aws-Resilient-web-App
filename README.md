@@ -173,6 +173,6 @@ To confirm that dynamic scaling and alerting mechanisms function as intended:
 
 3(c). Scale-Out Verification: The ASG recognized the sustained CPU load and automatically provisioned new EC2 instances to distribute the traffic and balance the workload.
 
-3(c). Scale-In Verification: Upon stopping the stress test application, the CPU utilization dropped back to standard levels, prompting the ASG to safely terminate the temporary instances and scale the environment back down to its baseline state.
+3(d). Scale-In Verification: Upon stopping the stress test application, the CPU utilization dropped back to standard levels, prompting the ASG to safely terminate the temporary instances and scale the environment back down to its baseline state.
 
 
